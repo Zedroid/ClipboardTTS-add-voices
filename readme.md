@@ -1,4 +1,16 @@
 ﻿# ClipboardTTS
+ 
+ADD VOICES
+microsoft Richard Canadian could be enabled as Voice = "Microsoft Richard" in clipboardTTS
+
+https://www.ghacks.net/2018/08/11/unlock-all-windows-10-tts-voices-system-wide-to-get-more-of-them/
+
+Activate Text-to-Speech with ` or Pause
+Kill Text-to-Speech with Shift+` or Shift+Pause
+copy text first
+
+https://www.autohotkey.com/boards/viewtopic.php?style=1&f=76&t=105150
+
 
 Send the text in your Clipboard to Microsoft's Text-to-Speech Engine. Useful for Visual Novel Text Hookers that send foreign game text to the clipboard. Can be easily launched via an AutoHotkey script.
 
