@@ -1,0 +1,24 @@
+;Voice = "Microsoft David Desktop"
+Voice = "Microsoft Richard"
+;Voice = "Microsoft Eva Mobile"
+
+
+;Volume 0...100
+Volume = 100
+
+;Rate -10...10
+Rate = 0
+
+;Max Character Limit (0 = Unlimited)
+CharLimit = 0
+
+;Remove unwanted pause from Line Returns
+RemoveLineReturns = "true"
+
+;Run the program with the "-w" parameter to output the audio to a wave file,
+;with WavePrefix and the date as the filename.
+;You can also specify a specific filename with "-w:filename.wav"
+WavePrefix = "Audio_TTS "
+
+[Substitutions]
+;OriginalWord => ReplacementWord
